@@ -69,9 +69,6 @@ img {
   line-height: calc(24 / 16);
   letter-spacing: 0.02em;
   color: var(--dark-theme-color);
-  transition-property: color;
-  transition-duration: 250ms;
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 .link:hover,
 .link:focus {
